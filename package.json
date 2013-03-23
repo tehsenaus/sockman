@@ -1,0 +1,23 @@
+{
+  "name": "sockman",
+  "version": "0.1.1",
+  "description": "A friendly WebSocket client.",
+  "main": "index.js",
+  "dependencies": {
+    "websocket": "~1.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tehsenaus/sockman.git"
+  },
+  "keywords": [
+    "websocket",
+    "client"
+  ],
+  "author": "Sean Micklethwaite",
+  "license": "BSD"
+}
