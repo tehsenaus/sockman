@@ -22,7 +22,7 @@ socket.on('connect', function (connection) {
    
    connection.send(JSON.stringify({
        some: 'data'
-   });
+   }));
    
    connection.on('message', function (msg) {
       console.log(msg);
